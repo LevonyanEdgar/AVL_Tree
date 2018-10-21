@@ -1,0 +1,7 @@
+C:\Programs\AVLTree\AVLTree\bin\Debug\AVLTree.exe.config
+C:\Programs\AVLTree\AVLTree\bin\Debug\AVLTree.exe
+C:\Programs\AVLTree\AVLTree\bin\Debug\AVLTree.pdb
+C:\Programs\AVLTree\AVLTree\obj\Debug\AVLTree.csprojAssemblyReference.cache
+C:\Programs\AVLTree\AVLTree\obj\Debug\AVLTree.csproj.CoreCompileInputs.cache
+C:\Programs\AVLTree\AVLTree\obj\Debug\AVLTree.exe
+C:\Programs\AVLTree\AVLTree\obj\Debug\AVLTree.pdb
